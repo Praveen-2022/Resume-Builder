@@ -37,13 +37,6 @@ This URL has the application deployed in
   4.Redux for state management.  
   5.React-avatar-edit for selecting profile image for resume.
   6.React-router-dom for routing.
-
- #### Contributors :    
-  1. Shahnawaz Ahmed[Profile](https://github.com/AhmedShahnawaz).
-  2. Shashank Patil[Profile](https://github.com/shashankpatil499).
-  3. Praveen Kumar Chauhan [Profile](https://github.com/Praveen-2022).
-  4. Vikash Pratap Suryawanshi[Profile](https://github.com/vikashp27).
-  5. Apurva Raj Purohit [Profile](https://github.com/Apurvarajpurohit).
   
 
 ## Installation guide
